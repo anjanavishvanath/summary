@@ -7,11 +7,11 @@
 ###### Heading 6
 
 <!-- Italics -->
-*This text* is italic
+*This text* is italic<br>
 _This text_ is also italic
 
 <!-- bold or strong -->
-**This text** is strong
+**This text** is strong<br>
 __This text__ is also strong
 
 <!-- Strike through -->
